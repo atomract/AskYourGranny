@@ -1,0 +1,14 @@
+# ignore generated code
+lib/
+dist/
+coverage/
+generated/
+
+# Ignore npm
+node_modules/
+.yarn
+package.json
+
+# Ignore assets
+*.woff
+*.woff2
